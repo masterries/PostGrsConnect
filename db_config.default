@@ -1,0 +1,7 @@
+[postgresql]
+host = asdasdasd
+database = sadasd
+user = sadasd
+password = asdasd
+port = sadasdasd
+sslmode = require
